@@ -1,3 +1,4 @@
+Readme ANSI 인코딩 버전입니다.
 
 [Hoon's Order. Develop Sequence]
 1. 디스코드 봇 ( 파이썬 - 3.5버전으로 해야함 )
